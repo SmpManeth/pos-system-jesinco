@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 17, 2019, 8:14:40 PM
+    Author     : dilsh
+*/
+@media only screen and (max-width: 1024px) {
+    .page-sidebar-menu-closed .nav-item .nav-link > span:nth-child(2){
+        display: inline-block;
+    }
+}
+.page-header.navbar .page-logo{
+    width: 50px;
+}
